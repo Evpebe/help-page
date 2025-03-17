@@ -8,4 +8,16 @@
         font-size: 1.25rem;
 
     }
+
+    .medium-blue{
+        color: var(--color-medium-blue)
+    }
+
+    .light-blue{
+        color: var(--color-light-blue)
+    }
+
+    .grey{
+        color: var(--color-yellow)
+    }
 }

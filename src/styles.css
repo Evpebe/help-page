@@ -1,2 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import '@fortawesome/fontawesome-free/css/all.min.css';
+
+:root{
+    --color-medium-blue: #3E4791;
+    --color-light-blue:#CCCFF7;
+    --color-yellow:#FFCB31;
+}
+body{
+    font-size: .95rem;
+}
